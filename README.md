@@ -1,7 +1,5 @@
 # Puerto Rican Town Names for OpenTTD
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
 ## About The Project
 
 Adds the names of the 902 barrios (Towns) from Puerto Rico.
@@ -50,4 +48,4 @@ Lucario Boricua & Ulisse Wolf
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-Distributed under the GNU GPL-v3 License. See [LICENSE][license-url] on for more information. 
+Distributed under the GNU GPL-v3 License. See License on for more information. 
