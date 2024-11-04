@@ -1,5 +1,4 @@
 # Puerto Rican Town Names for OpenTTD
-[![GitHub license][license-shield]][license-url]
 
 ## About The Project
 
@@ -47,7 +46,5 @@ Lucario Boricua & Ulisse Wolf
 
 
 ## License
-
-[![GitHub license][license-shield]][license-url]
 
 Distributed under the GNU GPL-v3 License. See [LICENSE][license-url] on for more information. 
