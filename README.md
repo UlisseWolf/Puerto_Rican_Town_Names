@@ -25,15 +25,6 @@ Adds the names of the 902 barrios (Towns) from Puerto Rico.
 
 - Once installed, start a new game choosing "Puerto Rico" town names.
 
-## Support & Contributing
-
-If you want to add any missing town or report a bug, you [can request ir or report it here][issues-url]. Also if you are want and know how to do it, go ahead! That's what make the open source community shines, by allowing us to grow and learn from each other creating amazing tools! Any contribution you make is **greatly appreciated**.
-
-1. Fork the Project
-2. Commit your Changes 
-3. Push to the Branch 
-4. Open a Pull Request
-
 ## Authors
 
 Lucario Boricua & Ulisse Wolf
