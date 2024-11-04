@@ -15,7 +15,7 @@ Adds the names of the 902 barrios (Towns) from Puerto Rico.
 - ~~Download it through the integrated content manager in the game or through [BaNaNaS](http://bananas.openttd.org)~~
 - ~~You may also [manual install it](https://wiki.openttd.org/en/Manual/NewGRF#manual-install), download or compile the `.grf` and put it on the OpenTTD `newgrf` directory.~~
 
-### How to Compile it (from Linux)
+### How to Compile it
 
 - [Install NML with its requirements](http://newgrf-specs.tt-wiki.net/wiki/NML:Getting_started)
 - Download last version from this repository 
