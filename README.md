@@ -1,5 +1,7 @@
 # Puerto Rican Town Names for OpenTTD
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 ## About The Project
 
 Adds the names of the 902 barrios (Towns) from Puerto Rico.
@@ -30,10 +32,9 @@ Adds the names of the 902 barrios (Towns) from Puerto Rico.
 If you want to add any missing town or report a bug, you [can request ir or report it here][issues-url]. Also if you are want and know how to do it, go ahead! That's what make the open source community shines, by allowing us to grow and learn from each other creating amazing tools! Any contribution you make is **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+2. Commit your Changes 
+3. Push to the Branch 
+4. Open a Pull Request
 
 ## Authors
 
@@ -46,5 +47,7 @@ Lucario Boricua & Ulisse Wolf
 
 
 ## License
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 Distributed under the GNU GPL-v3 License. See [LICENSE][license-url] on for more information. 
